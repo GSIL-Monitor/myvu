@@ -1,0 +1,17 @@
+{'json': {'data': {'orgId': '11111111111111111111111111111111111111'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 500}
+False
+cd7c771dda25ffc899ac4400848e7b369e3e5707dab3a8109cfb69306d4d4365
+count:288
+{
+    "meta": {
+        "clientType": "2",
+        "statusCode": 500,
+        "transDate": "20181221190435"
+    },
+    "message": {
+        "code": "err.default",
+        "content": "系统繁忙，请稍候再试。"
+    }
+}
+500
+500

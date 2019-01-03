@@ -1,0 +1,2 @@
+Test_GetBankName.py         79 INFO     执行开始setup_class---------------------------------------
+Test_GetBankName.py         80 DEBUG    http://192.168.1.232/wfbs-api/banking/cascade/getBankName

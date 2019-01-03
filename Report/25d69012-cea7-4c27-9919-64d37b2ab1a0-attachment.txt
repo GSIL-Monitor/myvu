@@ -1,0 +1,1 @@
+Test_SelectTerminalInfo.py   77 INFO     执行开始setup_class---------------------------------------

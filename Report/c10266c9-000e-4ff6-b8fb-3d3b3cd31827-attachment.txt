@@ -1,0 +1,23 @@
+{'json': {'data': {'idName': '盛轶骏', 'idNo': 310113198812276515}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_12', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13761917777}}, 'result': 500}
+False
+8b5079fad3ef5a28fed8f7520a3110993d8cb86169c2cc46a24933a310ac6b55
+count:240
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 500,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "mallList",
+    "clientName": "IOS_12",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190427",
+    "username": "13761917777"
+  },
+  "message": {
+    "code": "err.7002",
+    "content": "身份信息不一致"
+  }
+}
+500
+500

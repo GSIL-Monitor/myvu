@@ -1,0 +1,1 @@
+[0;36m2018-12-21 19:04:34 - WfbApp - test_SendMsgValidator.py - 79 - INFO - 执行开始setup_class---------------------------------------[0m

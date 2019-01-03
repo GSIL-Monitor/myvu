@@ -1,0 +1,26 @@
+{'json': {'data': {'deviceTypeExtendId': 1}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_12.4', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13761917777}}, 'result': 200}
+False
+7dacc033c588947b8bd63c1708933e069261d63ab4808b95bbb1a002b07177a7
+count:224
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "hqvq56jGQPuSaddxaheFiQ",
+        "clientName": "IOS_12.4",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190408",
+        "username": "18000000001"
+    },
+    "result": {
+        "deviceTypeExtendId": 1,
+        "deviceTypeName": "无押金终端(ME32)",
+        "devicePrice": 200,
+        "storehouse": 10000,
+        "introduction": "MPOS蓝牙终端"
+    }
+}
+200
+200

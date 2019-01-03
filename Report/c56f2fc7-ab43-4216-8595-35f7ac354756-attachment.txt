@@ -1,0 +1,25 @@
+{'json': {'data': {'odName': 'tgb'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+cce9082861630218d7016bb5b08dba50a44c93f2ca561f54726011c32813c0b1
+count:256
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "G_55b8nARiiu3Yqq-1uS0A",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190418",
+        "username": "18000000001"
+    },
+    "result": [
+        {
+            "imgUrl": "https://download.uenpay.com//image/QSHB/banner.png",
+            "linkUrl": "https://www.baidu.com"
+        }
+    ]
+}
+200
+200

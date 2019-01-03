@@ -1,0 +1,27 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390224591" stop="1545390225397">
+  <name>python3.project.WfbApp.Test_Addorder_uploadVoucher</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390224591" status="passed" stop="1545390225397">
+      <description>商城订单上传凭证</description>
+      <name>Test_AddOrder_uploadVoucher.test_api[intro=correct order]</name>
+      <attachments>
+        <attachment source="96e0256c-8a1d-411e-9801-a10a2ab52c47-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="80a97f74-a006-45bd-903a-bd519487495a-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="def72eb7-f859-46b7-a811-5f1f4e3ca4ab-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="07dbaa11-62da-4c2a-9f4e-5e0009e9f85b-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="05b0892d-43b6-4d66-84ff-9b83389cbdb7-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App_商城模块"/>
+        <label name="story" value="商城订单上传凭证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

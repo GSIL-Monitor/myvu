@@ -1,0 +1,23 @@
+<class 'str'>
+{'json': {'data': {'parentCode': '81'}, 'page': {'pageNumber': 1, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+ee9127867ffc7914dada8a03026fe3eb5c1a265e27d108a84d76d19c79cb91bf
+count:272
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "-f-NAZdITwKhk2u14gwaGg",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190415",
+        "username": "18000000001"
+    },
+    "result": {
+        "listCity": [],
+        "rspCod": "00",
+        "rspMsg": "交易成功"
+    }
+}

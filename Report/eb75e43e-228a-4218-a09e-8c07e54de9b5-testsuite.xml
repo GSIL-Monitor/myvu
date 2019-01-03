@@ -1,0 +1,32 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390257815" stop="1545390258261">
+  <name>python3.project.WfbApp.Test_SelectShopStat</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390257815" status="passed" stop="1545390258261">
+      <description>
+        服务首页商户统计
+        :param data:
+        :return:
+        </description>
+      <name>Test_SelectShopStat.test_api[intro=No_register]</name>
+      <attachments>
+        <attachment source="f51d4173-63d7-4d40-966d-2a330a4f92f4-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="40f0a7a3-0586-4bfa-ab01-0f0a54bf664e-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="061ba37a-2c19-4bf6-866e-ff92174948c7-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="b2210d25-fdc7-4053-bd3d-14a22aad32df-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="f6651596-83cc-4911-9c72-14ceee805829-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="服务首页商户统计"/>
+        <label name="testId" value="用例名：服务首页商户统计"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

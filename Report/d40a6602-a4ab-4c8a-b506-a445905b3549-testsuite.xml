@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390227032" stop="1545390234200">
+  <name>python3.project.WfbApp.Test_AutoInformationVerify</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390227032" status="passed" stop="1545390234200">
+      <description>商户实名认证</description>
+      <name>Test_AutoInformationVerify.test_1register[intro=success_register]</name>
+      <attachments>
+        <attachment source="12438057-0b34-4a42-a684-31d76361ad90-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="bfc57b0b-1f15-49a6-96ea-8b3597b198ff-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="cf5ff7a0-da55-4876-bae2-a35c2028f118-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="9b70ab98-b96f-448b-8412-b29d7979baf2-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="85d92b31-6d2d-41cf-8545-ce01d2f062cc-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="591a67ce-d5e9-43fa-ae0f-1b08273eff9f-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="商户实名认证"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

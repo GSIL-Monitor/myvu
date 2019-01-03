@@ -1,0 +1,6 @@
+{'json': {'data': {'orgId': '3297', 'directOrPartner': '1'}, 'meta': {'appKey': 'vj5DYRpZ', 'clientVersion': '1.3.8', 'clientName': 'IOS_11.4.1_qsj', 'username': '13761911932', 'accessToken': 'Vx0TcUE9QZCqjfjnLmmM1g', 'transCode': '100100401', 'transDate': '20181213145152'}}, 'result': 200}
+[0;36m2018-12-21 19:03:54 - WfbApp - Test_ExpandOrDirectMerchant.py - 106 - INFO - {"data": {"orgId": "3297", "directOrPartner": "1"}, "meta": {"appKey": "vj5DYRpZ", "clientVersion": "1.3.8", "clientName": "IOS_11.4.1_qsj", "username": "13761911932", "accessToken": "Vx0TcUE9QZCqjfjnLmmM1g", "transCode": "100100401", "transDate": "20181213145152"}}[0m
+False
+9d042ff862aa84d1464a01c3edb5dc41a2011b28853b893ee03a918b9a5f7ca0
+count:256
+[0;36m2018-12-21 19:03:54 - WfbApp - Test_ExpandOrDirectMerchant.py - 109 - INFO - {'meta': {'clientType': '1', 'statusCode': 200, 'appKey': 'vj5DYRpZ', 'accessToken': 'RcDig-n2ShaaoTqurCy9mA', 'clientName': 'IOS_11.4.1_qsj', 'clientVersion': '1.3.8', 'transCode': '100100401', 'transDate': '20181221190356', 'username': '18000000001'}, 'result': {'numMerchant': 139, 'certificationNum': 43, 'notCertified': 96, 'bindingTerminal': 9, 'unboundTerminal': 130, 'noDeposit': 0, 'activation': 3}}[0m

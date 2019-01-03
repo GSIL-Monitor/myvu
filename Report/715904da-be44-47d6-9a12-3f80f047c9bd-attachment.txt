@@ -1,0 +1,23 @@
+{'json': {'data': {'userId': '1284', 'orgId': 3297, 'userEmail': None}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 500}
+False
+b51b395441858f4b9dbb1bb33c1253fce690fee791a8fee1dcd61c3642e291cd
+count:288
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 500,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "WLg0FOpbTY-h9UICz41GRw",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190422",
+        "username": "18000000001"
+    },
+    "message": {
+        "code": "err.7018",
+        "content": "请输入邮箱"
+    }
+}
+500
+500

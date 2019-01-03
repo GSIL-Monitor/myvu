@@ -1,0 +1,1 @@
+test_CheckRealName.py       79 INFO     执行开始setup_class---------------------------------------

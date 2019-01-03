@@ -1,0 +1,11 @@
+{'json': {'data': {'deviceTypeExtendId': '5', 'agentRegisterUserId': '1284', 'orgId': '3727', 'orderAmount': '750.00', 'preferentialAmount': '0.00', 'deviceNum': 5, 'paymentAmount': '750.00', 'contactPhone': '13761917640', 'deliveryAddress': '上海市,上海市,黄浦区龙珠苑555', 'contactsName': '盛轶骏', 'accountNum': '31019000000000'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+3727
+[0;36m2018-12-21 19:03:43 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+None
+[0;36m2018-12-21 19:03:43 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+[0;36m2018-12-21 19:03:44 - WfbApp - Test_AddOrder.py - 130 - INFO - 1779[0m
+[0;36m2018-12-21 19:03:44 - WfbApp - Test_AddOrder.py - 135 - INFO - {"data": {"deviceTypeExtendId": "5", "agentRegisterUserId": 1779, "orgId": "3727", "orderAmount": "750.00", "preferentialAmount": "0.00", "deviceNum": 5, "paymentAmount": "750.00", "contactPhone": "13761917640", "deliveryAddress": "\u4e0a\u6d77\u5e02,\u4e0a\u6d77\u5e02,\u9ec4\u6d66\u533a\u9f99\u73e0\u82d1555", "contactsName": "\u76db\u8f76\u9a8f", "accountNum": "31019000000000"}, "page": {"pageNumber": 0, "pageSize": 10}, "meta": {"appKey": "vj5DYRpZ", "accessToken": "vPnh8y6vTMugwAVYRh6ohA", "clientName": "IOS_9.3.1", "clientVersion": "v1.0", "transCode": "1001", "transDate": "2018-5-17 10:50:00", "username": 13764906431}}[0m
+False
+625708b6f230774c607759f397a8b4604173e606cf11308d90010e5b0d79bf4d
+count:592
+[0;36m2018-12-21 19:03:44 - WfbApp - Test_AddOrder.py - 141 - INFO - {'meta': {'clientType': '1', 'statusCode': 200, 'appKey': 'vj5DYRpZ', 'accessToken': 'vPnh8y6vTMugwAVYRh6ohA', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '20181221190346', 'username': '18000000001'}, 'result': {'agentOrderId': 1460}}[0m

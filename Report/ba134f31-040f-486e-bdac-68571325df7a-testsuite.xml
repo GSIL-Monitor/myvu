@@ -1,0 +1,65 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390276019" stop="1545390276509">
+  <name>python3.project.WfbApp.test_uptPwd</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390276019" status="passed" stop="1545390276335">
+      <description>代理基础信息查询接口</description>
+      <name>Test_uptPwd.test_api[intro=\u4fee\u6539\u5bc6\u7801]</name>
+      <attachments>
+        <attachment source="5b7ef31b-300f-4d47-b4b3-f8e34430e7c1-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="6c2fde56-e885-4968-921b-687639833770-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="7ed60f8b-bc56-4c37-9c79-e4ffc1cdf112-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="59c27924-4b65-4e4f-ab48-228d70dc4e15-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="34493372-6b07-4f2f-a806-ce45e949347b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_修改密码"/>
+        <label name="story" value="更新密码接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390276357" status="passed" stop="1545390276442">
+      <description>代理基础信息查询接口</description>
+      <name>Test_uptPwd.test_api[intro=\u9519\u8bef\u539f\u5bc6\u7801]</name>
+      <attachments>
+        <attachment source="4ba12612-568a-4cb1-873c-40344150392f-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="74efd9b3-7091-4fe2-a4d0-a6019e620771-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="fb5fbf9c-2476-41e7-affa-7626d82ef793-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_修改密码"/>
+        <label name="story" value="更新密码接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390276463" status="passed" stop="1545390276509">
+      <description>代理基础信息查询接口</description>
+      <name>Test_uptPwd.test_api[intro=\u91cd\u7f6e\u7528\u4f8b\u5bc6\u7801]</name>
+      <attachments>
+        <attachment source="16191549-a09e-4a56-91d2-1e868893b993-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="3eba229b-42eb-4d5a-9e9a-90dce337bbad-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="57f1c7fd-33ca-4b76-8927-fc4fdeb44e64-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_修改密码"/>
+        <label name="story" value="更新密码接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

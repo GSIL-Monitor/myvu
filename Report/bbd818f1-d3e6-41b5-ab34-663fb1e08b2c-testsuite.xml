@@ -1,0 +1,84 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390257427" stop="1545390257776">
+  <name>python3.project.WfbApp.Test_SelectParentInfo</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390257427" status="passed" stop="1545390257605">
+      <description>我的推荐人</description>
+      <name>Test_SelectParentInfo.test_api[intro=correct userId]</name>
+      <attachments>
+        <attachment source="798fbc9f-3ab4-4b81-b0c4-a48d105b7ed0-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="3a9fcf50-6c75-42dc-a994-6239537b2ac5-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="8937755b-fee1-4062-a518-cb378b67d86d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="3e7fce0a-b5cb-44dd-9547-33179c8d9989-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="ec9582ce-021d-4dd1-be31-378535da3a32-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="我的推荐人"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390257634" status="passed" stop="1545390257683">
+      <description>我的推荐人</description>
+      <name>Test_SelectParentInfo.test_api[intro=userId is null]</name>
+      <attachments>
+        <attachment source="64c86c74-7e91-4b33-a8f0-1a620523767e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="3f896ce8-e03c-42a5-a16d-60dea3e993b2-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="92953cde-32c3-4746-a034-e02fe15642d7-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="我的推荐人"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390257705" status="passed" stop="1545390257730">
+      <description>我的推荐人</description>
+      <name>Test_SelectParentInfo.test_api[intro=havent userId]</name>
+      <attachments>
+        <attachment source="74580aba-e642-44c0-b023-59f950ea370d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="6b04dfab-8004-46b1-b10b-da23fd495771-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="f6be9b09-f1ee-469f-9ec3-b5825c94be08-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="我的推荐人"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390257755" status="passed" stop="1545390257776">
+      <description>我的推荐人</description>
+      <name>Test_SelectParentInfo.test_api[intro=wrong type userId]</name>
+      <attachments>
+        <attachment source="c514b0d2-c6d2-4648-9527-876f7cc87aa8-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="5ca1c3e1-5f31-4e89-94ab-9fdc5834b94f-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="19188161-4548-4e41-a67f-6e88282baaaa-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="我的推荐人"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

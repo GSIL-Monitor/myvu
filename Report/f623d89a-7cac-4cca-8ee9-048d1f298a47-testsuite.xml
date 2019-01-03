@@ -1,0 +1,46 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390261499" stop="1545390264445">
+  <name>python3.project.WfbApp.test_AddRegisterInfo</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390261499" status="passed" stop="1545390262979">
+      <description>代理商注册插表接口</description>
+      <name>Test_AddRegisterInfo.test_1register[intro=correct_register]</name>
+      <attachments>
+        <attachment source="3cc24653-6a2e-462e-9a09-e0a5469f8d69-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="4e8b6a5d-a5ae-4802-b2e5-5652f30665f2-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="e916a822-70da-4cf6-bd30-716e563b9bcc-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="000f4ed2-f27c-4e23-9e5d-bac2f2b12865-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="e433b409-74c5-4ec6-a9c6-c4434e01e956-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App_注册模块"/>
+        <label name="story" value="注册接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390263006" status="passed" stop="1545390264445">
+      <description>代理商注册插表接口</description>
+      <name>Test_AddRegisterInfo.test_1register[intro=success_register]</name>
+      <attachments>
+        <attachment source="b8b7f519-45a3-4f1a-bc2a-4fc39d53f164-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="fa0ebd09-4f0f-4f9f-b21e-1db68ad0671b-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="b42dc8af-170d-442b-9251-65f5ddd0d50e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App_注册模块"/>
+        <label name="story" value="注册接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

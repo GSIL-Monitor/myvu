@@ -1,0 +1,2 @@
+Test_PerfectShopInfo.py    127 DEBUG    {'data': {'city': '3101', 'county': '310113', 'merName': '测试商户商户商户商户商户商户豌', 'phoneNumber': '13710020870', 'province': '31', 'town': '310113501'}, 'meta': {'accessToken': '4KLJWv4NTW6YaTPF7yPNBw', 'appKey': 'vj5DYRpZ', 'clientName': 'Android_PACM00_8.1.0_qsj', 'clientVersion': '1.2.3', 'transCode': '', 'transDate': '2018-08-27 12:06:27', 'username': '13761917641'}}
+log.py                      44 INFO     res

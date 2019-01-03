@@ -1,0 +1,88 @@
+{'json': {'data': {'orgId': '3236', 'userId': 1095, 'userType': 2, 'userName': ''}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0'}}, 'result': 200}
+False
+7dcf630475a6e8e86d733be16b8aa26b9a64941e2bf5b434e3627548aea6bb3f
+count:224
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "yKS8L4JjTXuLv3vPMoRmtQ",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transDate": "20181221190435",
+        "username": "18000000001"
+    },
+    "page": {
+        "page": 0,
+        "size": 10,
+        "totalPages": 14,
+        "totalElements": 134,
+        "pageNumber": 0,
+        "pageSize": 10
+    },
+    "result": [
+        {
+            "id": 36752,
+            "userId": 36752,
+            "userName": "何柳",
+            "isAuth": "1"
+        },
+        {
+            "id": 36753,
+            "userId": 36753,
+            "userName": "何柳",
+            "isAuth": "1"
+        },
+        {
+            "id": 36762,
+            "userId": 36762,
+            "userName": "何柳",
+            "isAuth": "1"
+        },
+        {
+            "id": 36836,
+            "userId": 36836,
+            "userName": "何柳",
+            "isAuth": "1"
+        },
+        {
+            "id": 36730,
+            "userId": 36730,
+            "userName": "盛轶骏",
+            "isAuth": "0"
+        },
+        {
+            "id": 36751,
+            "userId": 36751,
+            "userName": "盛轶骏",
+            "isAuth": "0"
+        },
+        {
+            "id": 36759,
+            "userId": 36759,
+            "userName": "盛轶骏",
+            "isAuth": "0"
+        },
+        {
+            "id": 36763,
+            "userId": 36763,
+            "userName": "盛轶骏",
+            "isAuth": "0"
+        },
+        {
+            "id": 36817,
+            "userId": 36817,
+            "userName": "盛轶骏",
+            "isAuth": "0"
+        },
+        {
+            "id": 36899,
+            "userId": 36899,
+            "userName": "盛轶骏",
+            "isAuth": "0"
+        }
+    ]
+}
+200
+200

@@ -1,0 +1,17 @@
+{'json': {'data': {'orgId': '32220210010297754555555555'}, 'page': {'pageNumber': 0, 'pageSize': 20}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 500}
+False
+43786e3bed090e22f8cadfcf7d9adc7cae765c49dea224ae5e354b9ce86e587d
+count:288
+{
+    "meta": {
+        "clientType": "2",
+        "statusCode": 500,
+        "transDate": "20181221190412"
+    },
+    "message": {
+        "code": "err.default",
+        "content": "系统繁忙，请稍候再试。"
+    }
+}
+返回状态码：500
+用例断言状态码：500

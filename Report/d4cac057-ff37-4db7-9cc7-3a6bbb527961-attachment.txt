@@ -1,0 +1,30 @@
+{'json': {'data': {'orgId': ''}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+6e6f3240d8a14480f124000d6836715c53bf0ed0f3f2c9f62d73da93caf9e452
+count:256
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "tzcpwFHmT4eU3ffc1yx-ng",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190436",
+        "username": "18000000001"
+    },
+    "result": {
+        "income": 0,
+        "yesterdayProfit": 0,
+        "currMonthIncome": 0,
+        "monthTransAmount": 0,
+        "monthAddShop": 0,
+        "terminalNum": 0,
+        "monthTransAmountFriend": 0,
+        "monthAddShopFriend": 0,
+        "terminalNumFriend": 0
+    }
+}
+200
+200

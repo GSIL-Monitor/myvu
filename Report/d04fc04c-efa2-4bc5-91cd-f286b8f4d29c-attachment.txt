@@ -1,0 +1,1 @@
+Test_SelectObjInfo.py       78 INFO     执行开始setup_class---------------------------------------

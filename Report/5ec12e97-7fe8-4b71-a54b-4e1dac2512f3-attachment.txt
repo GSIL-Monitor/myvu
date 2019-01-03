@@ -1,0 +1,27 @@
+False
+c0be0f51fa47a92af6b32f78733d811ec7986bfa1511bf1303eed605ff8dba14
+count:256
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "pvqYYUr9Rtmqa8e-NzdDeg",
+        "clientName": "IOS_12",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190409",
+        "username": "18000000001"
+    },
+    "result": {
+        "scoreAvailable": 7489,
+        "scoreTotalHis": 500,
+        "usedScore": 7500
+    }
+}
+200
+200
+[0;36m2018-12-21 19:04:07 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+[0;36m2018-12-21 19:04:07 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+[{'SUM(SCORE)': 500}]
+[{'SCORE_AVAILABLE': 7489}]

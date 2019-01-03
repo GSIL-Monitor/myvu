@@ -1,0 +1,19 @@
+250b81b2a1157579c4fc91f2cc714679fbce1f496dd32a3d907679a13af218f6
+count:272
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 500,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "mallList",
+    "clientName": "IOS_12",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190427",
+    "username": "13764906431"
+  },
+  "message": {
+    "code": "err.1006",
+    "content": "请更新版本！"
+  }
+}

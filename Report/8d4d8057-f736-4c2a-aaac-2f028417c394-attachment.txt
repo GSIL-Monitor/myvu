@@ -1,0 +1,23 @@
+{'json': {'data': {'userId': '1284', 'orgId': 3297, 'userEmail': ''}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 500}
+False
+d5882d17ff924f53b6317fc1a316cc904e0aa13d8a5a851a5c541543dbaff992
+count:288
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 500,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "WLg0FOpbTY-h9UICz41GRw",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190423",
+        "username": "18000000001"
+    },
+    "message": {
+        "code": "err.validation",
+        "content": "{err.7017}"
+    }
+}
+500
+500

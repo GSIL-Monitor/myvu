@@ -1,0 +1,27 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390264480" stop="1545390264876">
+  <name>python3.project.WfbApp.test_AddRnImage</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390264480" status="passed" stop="1545390264876">
+      <description>上传认证图片</description>
+      <name>Test_AddRnImage.test_api[intro=No_register]</name>
+      <attachments>
+        <attachment source="e7b2c590-7330-4539-992b-9433958567ef-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="623eff0f-cc35-4dc6-bb20-7a8de54b5011-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d6dcf65f-5a59-4382-a58a-bb3b741ada2e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="9d15219f-f120-4c49-83d2-3a9654b29834-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="ade48783-f07b-458e-8af0-0df652a6060c-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App_注册模块"/>
+        <label name="story" value="上传认证图片"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,28 @@
+78ad14e0d18402b53b5d11c3cfee36e3d2c75e0a7688d215bbf9050c119e28d8
+count:256
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "oB22PLC9S5a1lTmU_CHFGQ",
+    "clientName": "IOS_12",
+    "clientVersion": "1.1.0",
+    "transCode": "1001",
+    "transDate": "20181221190426",
+    "username": "13764906431"
+  },
+  "result": {
+    "userName": "13764906431",
+    "userState": "1",
+    "relationMechanismState": "1",
+    "relationMechanismList": [
+      {
+        "agentOrgId": 1330,
+        "orgId": 3297,
+        "orgCode": "ORG00003297",
+        "orgName": "无敌小机构哟哟"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390254151" stop="1545390254824">
+  <name>python3.project.WfbApp.Test_InsertReadLog</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390254151" status="failed" stop="1545390254824">
+      <description>
+        插入已读消息
+        :param data:
+        :return:
+        </description>
+      <name>Test_InsertReadLog.test_api[intro=messagelist]</name>
+      <failure>
+        <message>IndexError: list index out of range</message>
+        <stack-trace>self = &lt;python3.project.WfbApp.Test_InsertReadLog.Test_InsertReadLog object at 0x000001E82D0E8630&gt;
+data = {'json': {'data': {'msgId': '2323', 'userId': '2309'}, 'meta': {'accessToken': 'Vx0TcUE9QZCqjfjnLmmM1g', 'appKey': 'vj5DYRpZ', 'clientName': 'IOS_11.4.1_qsj', 'clientVersion': '1.3.8', ...}}, 'result': 200}
+
+    @allure.story("插入已读消息")
+    @allure.testcase("用例名：插入已读消息")
+    @pytest.mark.parametrize('data',test_data,ids=intro_data)
+    def test_api(self,data):
+        """
+            插入已读消息
+            :param data:
+            :return:
+            """
+        print(data)
+        # 登录成功后替换config.yaml里的账号信息以及替换token进行后续接口操作
+        userid=data['json']['data']['userId']
+&gt;       msgid=self.Oracle.orc_select("select a.MSG_ID from AGENT_MSG_MESSAGE_SYS a join  (select b.MSG_ID,c.USER_ID from AGENT_MSG_MESSAGE_SYS b left join OFFICIAL_MSG_READ c on b.MSG_ID=c.MSG_ID and c.USER_ID="+str(userid)+") d on a.MSG_ID=d.MSG_ID and d.USER_ID is null")[0]['MSG_ID']
+E       IndexError: list index out of range
+
+Test_InsertReadLog.py:105: IndexError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="81f6b1f8-fe07-4658-8db9-ea695b36ab0b-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="ab24fe6b-347e-4743-b3fc-8767b759d4c2-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="700feee3-9cd9-4e71-be78-76a8626bb3ef-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="91e0840f-48e1-42de-b7d7-8055730d160f-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="插入已读消息"/>
+        <label name="testId" value="用例名：插入已读消息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

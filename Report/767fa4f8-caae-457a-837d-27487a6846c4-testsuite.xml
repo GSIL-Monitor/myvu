@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390246095" stop="1545390246275">
+  <name>python3.project.WfbApp.Test_FindDeviceById</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390246095" status="passed" stop="1545390246275">
+      <description>终端购买列表</description>
+      <name>Test_FindDeviceById.test_api[intro=No_register]</name>
+      <attachments>
+        <attachment source="fde3f93d-26e4-4969-b599-1fea54013f1c-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="ce86f8c8-2da2-4ebe-a847-89abc250f00f-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="b9d61103-3e26-4468-9bfe-3bcd70166b89-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="81fda3cf-41c1-4381-9993-087fc6b60d7a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="fa5b488a-70b6-482d-8209-ff425b2ac880-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="54b2c344-82ee-4bd4-b54f-07b611a650b0-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="终端购买列表"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

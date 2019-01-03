@@ -1,0 +1,1 @@
+test_Register.py            75 INFO     执行开始setup_class---------------------------------------

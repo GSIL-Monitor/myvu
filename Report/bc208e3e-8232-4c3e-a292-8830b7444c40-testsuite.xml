@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390234240" stop="1545390234632">
+  <name>python3.project.WfbApp.Test_BankBinding</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390234240" status="passed" stop="1545390234632">
+      <description>商户认证绑定入账卡</description>
+      <name>Test_BankBinding.test_api[intro=No_register]</name>
+      <attachments>
+        <attachment source="e317cdbe-9445-4e05-9baf-ccaf7488c5c7-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="49b95057-26e4-4acc-a22d-8eb579d4c841-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="5297b094-b764-40f0-a896-02c9c08b3c53-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d0717ad1-0de2-4ef0-87e4-518f18a4ed20-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="5480c5fd-6db7-4cc8-b717-4bc7567db49a-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="0d98be44-4a90-4b98-b384-4c2608c394d2-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="商户认证绑定入账卡"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

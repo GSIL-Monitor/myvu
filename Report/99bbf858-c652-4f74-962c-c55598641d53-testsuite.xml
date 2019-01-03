@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390246360" stop="1545390246575">
+  <name>python3.project.WfbApp.Test_FindDeviceList</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390246360" status="passed" stop="1545390246575">
+      <description>代理基础信息查询接口</description>
+      <name>Test_FindDeviceList.test_api[intro=No_register]</name>
+      <attachments>
+        <attachment source="1b143c07-a189-4df3-b8cc-1802c93abfb4-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="eb6f99e1-6b58-486f-8b1e-50b353a86388-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="321962b2-0f5c-4a81-bf6c-dc887a2a8810-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="bc65561c-4c5c-4c2f-9514-63a9b5639adf-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="c863d9e8-a5ea-4141-99d8-277b8aec846d-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="4d8e75c5-890f-48e1-9fa6-4a981e1c743b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="发送短信验证码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

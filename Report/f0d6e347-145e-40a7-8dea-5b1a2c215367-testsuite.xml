@@ -1,0 +1,108 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390256112" stop="1545390256527">
+  <name>python3.project.WfbApp.Test_SelectBanners</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390256112" status="passed" stop="1545390256298">
+      <description>Q刷伙伴广告banner</description>
+      <name>Test_SelectBanners.test_api[intro=correct phoneNumber0]</name>
+      <attachments>
+        <attachment source="655a0020-975e-4a41-9712-8fd710a46cc8-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="00508fe1-b179-431f-a68d-4699f3e8adf0-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="c56f2fc7-ab43-4216-8595-35f7ac354756-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="5cc38fcd-df7c-432b-afba-2c346b692d6d-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="2b35f741-e997-4548-a694-8ca1c7a9556b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="Q刷伙伴广告banner"/>
+        <label name="testId" value="用例名：Q刷伙伴广告banner"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390256322" status="passed" stop="1545390256340">
+      <description>Q刷伙伴广告banner</description>
+      <name>Test_SelectBanners.test_api[intro=correct phoneNumber1]</name>
+      <attachments>
+        <attachment source="d3af63e9-2986-4852-add2-3a07dca254bf-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="00517a33-42f5-47fe-adee-20c9682bb161-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="380213b0-b1a4-41d8-8c02-ab411b360722-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="Q刷伙伴广告banner"/>
+        <label name="testId" value="用例名：Q刷伙伴广告banner"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390256365" status="passed" stop="1545390256434">
+      <description>Q刷伙伴广告banner</description>
+      <name>Test_SelectBanners.test_api[intro=1.1.3]</name>
+      <attachments>
+        <attachment source="99ea1861-1adc-4b85-9ba4-6ac9b10631df-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="8e41a694-8333-495d-8cf7-c87b17e3a16a-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="85dfce7a-38c7-4f22-bea5-a59fb61179ce-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="Q刷伙伴广告banner"/>
+        <label name="testId" value="用例名：Q刷伙伴广告banner"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390256456" status="passed" stop="1545390256484">
+      <description>Q刷伙伴广告banner</description>
+      <name>Test_SelectBanners.test_api[intro=1.1.4]</name>
+      <attachments>
+        <attachment source="81521ad2-8f0e-437d-9934-c7af3546ef37-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="44b77cd1-4dd3-4fa2-b1aa-e4095f33b3fc-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="34b79b77-3b03-4a69-bae3-ea6d36458716-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="Q刷伙伴广告banner"/>
+        <label name="testId" value="用例名：Q刷伙伴广告banner"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390256505" status="passed" stop="1545390256527">
+      <description>Q刷伙伴广告banner</description>
+      <name>Test_SelectBanners.test_api[intro=1.1.5]</name>
+      <attachments>
+        <attachment source="db0f649c-9a1d-4c45-bd6f-91aab9fb40de-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="f653b65e-1158-45dc-8fcd-4ff8c1ec363f-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="027b0e6e-460f-4543-9e73-8f3468d7f4c1-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="Q刷伙伴广告banner"/>
+        <label name="testId" value="用例名：Q刷伙伴广告banner"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

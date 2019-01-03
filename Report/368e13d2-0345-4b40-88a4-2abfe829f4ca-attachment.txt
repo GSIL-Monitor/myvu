@@ -1,0 +1,19 @@
+{'json': {'data': {'type': '100001', 'phoneNumber': '13710077000'}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0'}}, 'result': 200}
+False
+5be5f58582ef9ed4136a31f00f2bc15030fafcfd8c64a69e7e4c0e60fb9415da
+count:160
+{
+    "meta": {
+        "clientType": "2",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "mallList",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transDate": "20181221190437"
+    },
+    "result": {}
+}
+200
+200
+[]

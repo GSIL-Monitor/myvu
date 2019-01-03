@@ -1,0 +1,103 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390250347" stop="1545390254116">
+  <name>python3.project.WfbApp.Test_GetProvince</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390250347" status="passed" stop="1545390250615">
+      <description>获取省市信息</description>
+      <name>Test_GetProvince.test_api[intro=correct parentCode0]</name>
+      <attachments>
+        <attachment source="9abdd21d-67d1-40a3-98b0-bba4cfaba1d1-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="0931f87e-c080-412e-9ec4-980b69597cd5-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="f75fa92a-33ae-4281-8e9f-be08411e1a90-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="c9fd9fa8-a381-4550-8e87-5b685dc58545-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="5eea227e-159c-467a-b84e-a6f5d61a7e8a-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获取省市信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390250639" status="passed" stop="1545390253538">
+      <description>获取省市信息</description>
+      <name>Test_GetProvince.test_api[intro=correct parentCode1]</name>
+      <attachments>
+        <attachment source="3ed9b088-f174-4d1b-b922-61c7ffd9fec0-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="fcc53804-1b15-4961-bd71-8810adb452ec-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="c488f798-2efa-4030-87ad-600dfac33c2a-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获取省市信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390253566" status="passed" stop="1545390253926">
+      <description>获取省市信息</description>
+      <name>Test_GetProvince.test_api[intro=correct parentCode2]</name>
+      <attachments>
+        <attachment source="80a56d55-267f-4b49-ac39-e125b6f7eaf9-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="7373b87c-0750-4faa-9ee2-b1574d98bcab-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="60353772-7083-44fa-a5eb-0667e9ace04c-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获取省市信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390253956" status="passed" stop="1545390254026">
+      <description>获取省市信息</description>
+      <name>Test_GetProvince.test_api[intro=parentCode is null]</name>
+      <attachments>
+        <attachment source="636fe8b6-53a6-4a39-a963-293cb7465349-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="fefb8e74-48d2-4f33-81a1-68d3a472eef9-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="5f210d13-aaba-4033-a1ce-196e79f3f825-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获取省市信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390254052" status="passed" stop="1545390254116">
+      <description>获取省市信息</description>
+      <name>Test_GetProvince.test_api[intro=parentCode is wrong type]</name>
+      <attachments>
+        <attachment source="0313c3bb-8adb-497d-8f4e-0813dc367f8b-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="7571a700-ae24-4ac1-9ae0-72239f4b32de-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="0cb24223-3376-4698-afd4-7f112b5fb2b3-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获取省市信息"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

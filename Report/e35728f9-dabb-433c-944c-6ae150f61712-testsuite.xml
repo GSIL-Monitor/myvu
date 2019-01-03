@@ -1,0 +1,28 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390270257" stop="1545390270752">
+  <name>python3.project.WfbApp.test_RealNameAuth</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390270257" status="passed" stop="1545390270752">
+      <description>联网查询身份证信息</description>
+      <name>Test_RealNameAuth.test_api[intro=No_register]</name>
+      <attachments>
+        <attachment source="a82fc942-1580-4e61-9d0a-05593a66b59a-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="2a7a91a4-4f25-45b6-83c4-06a18063a93a-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="0f5cb9ca-c767-49d0-969d-f261ab1c1741-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="e56d3d05-f3cc-4f72-aa4e-bec331759118-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="c99cea94-8a09-4ebd-9906-64cb62fa3aab-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="d0247984-ce57-4f54-a015-093310c31739-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="解绑代理商机构"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

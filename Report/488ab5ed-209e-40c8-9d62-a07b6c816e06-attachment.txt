@@ -1,0 +1,6 @@
+{'json': {'data': {'orgId': '4194', 'directOrPartner': '0'}, 'meta': {'appKey': 'vj5DYRpZ', 'clientVersion': '1.3.8', 'clientName': 'IOS_11.4.1_qsj', 'username': '13761911932', 'accessToken': 'Vx0TcUE9QZCqjfjnLmmM1g', 'transCode': '100100401', 'transDate': '20181213145152'}}, 'result': 200}
+[0;36m2018-12-21 19:04:19 - WfbApp - Test_SelectTradeInfo.py - 106 - INFO - {"data": {"orgId": "4194", "directOrPartner": "0"}, "meta": {"appKey": "vj5DYRpZ", "clientVersion": "1.3.8", "clientName": "IOS_11.4.1_qsj", "username": "13761911932", "accessToken": "Vx0TcUE9QZCqjfjnLmmM1g", "transCode": "100100401", "transDate": "20181213145152"}}[0m
+False
+118f1a7d9681e0f048111d0957a04c81ba35a8ac141ffb079ce19f027f13ed6b
+count:256
+[0;36m2018-12-21 19:04:19 - WfbApp - Test_SelectTradeInfo.py - 109 - INFO - {'meta': {'clientType': '1', 'statusCode': 200, 'appKey': 'vj5DYRpZ', 'accessToken': 'C5mJRXhiREiVtSm1hdkARg', 'clientName': 'IOS_11.4.1_qsj', 'clientVersion': '1.3.8', 'transCode': '100100401', 'transDate': '20181221190421', 'username': '18000000001'}, 'result': {'dayTrade': 0, 'monthTrade': 0, 'historyTrade': 0}}[0m

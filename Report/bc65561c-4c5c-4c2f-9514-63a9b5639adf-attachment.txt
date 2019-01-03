@@ -1,0 +1,57 @@
+{'json': {'data': {}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList'}}, 'result': 200}
+False
+ba4572333420230c4d8cb2f54bcefbc212adf17e109ac0e98d8ec2edc2e54269
+count:80
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "xcRIEnh6QRu6qQn99h3lTg",
+        "transDate": "20181221190408",
+        "username": "18000000001"
+    },
+    "result": [
+        {
+            "deviceTypeExtendId": 42,
+            "deviceTypeName": "有押金A80(A80)",
+            "devicePrice": 888,
+            "storehouse": 888,
+            "pictureUrl": "goods/20181221/20181221094257905467.jpg"
+        },
+        {
+            "deviceTypeExtendId": 41,
+            "deviceTypeName": "(ME32)",
+            "devicePrice": 555,
+            "storehouse": 6666,
+            "pictureUrl": "goods/20181221/20181221093928322982.jpg"
+        },
+        {
+            "deviceTypeExtendId": 1,
+            "deviceTypeName": "无押金终端(ME32)",
+            "devicePrice": 200,
+            "storehouse": 10000
+        },
+        {
+            "deviceTypeExtendId": 8,
+            "deviceTypeName": "无押金终端wgp(ME32)",
+            "devicePrice": 5,
+            "storehouse": 10000,
+            "pictureUrl": "agent/voucher/20180913/20180913140333624737.png"
+        },
+        {
+            "deviceTypeExtendId": 7,
+            "deviceTypeName": "无押金终端wu(ME32)",
+            "devicePrice": 60,
+            "storehouse": 10000
+        },
+        {
+            "deviceTypeExtendId": 3,
+            "deviceTypeName": "无押金终端(MP63)",
+            "devicePrice": 100,
+            "storehouse": 10000
+        }
+    ]
+}
+200
+200

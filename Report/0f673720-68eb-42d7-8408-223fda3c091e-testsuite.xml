@@ -1,0 +1,65 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390274556" stop="1545390275978">
+  <name>python3.project.WfbApp.test_SendMsgValidator</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390274556" status="passed" stop="1545390275166">
+      <description>代理基础信息查询接口</description>
+      <name>Test_SendMsgValidator.test_api[intro=shop_message]</name>
+      <attachments>
+        <attachment source="b0598a7b-56ad-4722-8415-f520bc45ceaa-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="a7a14514-753d-4d1e-8579-2d3bed814397-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="13d99363-f604-40bd-9764-e41a523efbab-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="af1037a2-b71e-437b-8767-d9c3a5dd6b3c-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="3e4d653a-de5f-4d46-ab26-e767d818cb45-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="发送短信验证码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390275191" status="passed" stop="1545390275602">
+      <description>代理基础信息查询接口</description>
+      <name>Test_SendMsgValidator.test_api[intro=agent_register_message]</name>
+      <attachments>
+        <attachment source="368e13d2-0345-4b40-88a4-2abfe829f4ca-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="61cb16b1-eff5-433f-b5a1-621c57d2861b-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="fa0534a5-8959-4b98-a1bb-7501095e6f7d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="发送短信验证码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390275626" status="passed" stop="1545390275978">
+      <description>代理基础信息查询接口</description>
+      <name>Test_SendMsgValidator.test_api[intro=not_register_agent]</name>
+      <attachments>
+        <attachment source="e646249d-ba45-4019-8761-ed7b0ff3042e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="9a717b48-c64c-467f-9bde-45a1a75b2931-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="dd7ec1a5-cfbf-4d9e-95be-cdefda2effee-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="发送短信验证码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,80 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390265210" stop="1545390265659">
+  <name>python3.project.WfbApp.test_CertifiedCollection</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390265210" status="passed" stop="1545390265375">
+      <description>
+        查询未认证、通过、冻结商户数量
+        :param data:
+        :return:
+        </description>
+      <name>Test_CertifiedCollection.test_api[intro=No_register0]</name>
+      <attachments>
+        <attachment source="8eebdac5-3e37-41d4-a245-1e9e2f9a0cb0-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="8df2b5a5-0ecf-4b12-aa07-e006239cee92-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d2300c68-0e92-4f2b-88b5-7c4fefd3433b-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="2783da87-e751-48e2-9c85-5861a7619020-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="c740cf4b-df35-4a4d-91de-943050cd4fa8-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询未认证、通过、冻结商户数量"/>
+        <label name="testId" value="用例名：查询未认证、通过、冻结商户数量"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390265407" status="passed" stop="1545390265426">
+      <description>
+        查询未认证、通过、冻结商户数量
+        :param data:
+        :return:
+        </description>
+      <name>Test_CertifiedCollection.test_api[intro=No_register1]</name>
+      <attachments>
+        <attachment source="9fe98f10-911e-4472-bf6e-9c8ba81d67b3-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="1fdde0ae-f2d3-47dd-892f-c4eb9c7f53b8-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="3bf567b3-adcf-4800-a3c6-6a8ba88a3e20-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询未认证、通过、冻结商户数量"/>
+        <label name="testId" value="用例名：查询未认证、通过、冻结商户数量"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390265453" status="passed" stop="1545390265659">
+      <description>
+        查询未认证、通过、冻结商户数量
+        :param data:
+        :return:
+        </description>
+      <name>Test_CertifiedCollection.test_api[intro=No_register2]</name>
+      <attachments>
+        <attachment source="5e9795a2-66cb-41eb-94ce-7420bbebb5bd-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="63ed9802-bb97-4d99-9777-91e2a86275d7-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="e7d80851-a622-46a2-acf6-f06d00da3ef4-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询未认证、通过、冻结商户数量"/>
+        <label name="testId" value="用例名：查询未认证、通过、冻结商户数量"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

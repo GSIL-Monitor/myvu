@@ -1,0 +1,44 @@
+200
+7b6d9cd4e7cb74538fda80810aba3eaf9b7c5e438640c96a554b905df21ab81b
+count:256
+10ce48c19e117c3989212df8ac5eeb6998211c627ba091a943e55429d02bf074FhCB/ET+KENy+aiL8rtMCfU8NzN/YiQE0ieT/ZLBHqINRDItyAAERxF2AgeOdL/dYQD2wasl++bWnnHnfPJV80S+/tp6p1UqEibiFkwGGsYiPHpuG5E/cl6n0BikOO2aYXS5IKek+ISYKLf0wtyuNXC3XaQOgivbyuE9SMIppjunuIqmjVrexUoHuCaYVcIU/I+IpSZd4yQSSvXUYhN7vbU2rZJnnvByHslbSdVh+fPmiC2xoRpF9waNC9cj+UOKFnIhHyxSogOuZetPUFSzkDs+HY4ZGt7bICIiC/PTOAhc74CFb5AO9W95ZA4JlWexL8IAPQULNaED0pcZqaGeyQ==
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "swUpGb3BTFih9KUzBdy21g",
+    "clientName": "IOS_10.3.3_qsj",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190349",
+    "username": "13710018668"
+  },
+  "result": {}
+}
+[0;36m2018-12-21 19:03:47 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+[0;36m2018-12-21 19:03:48 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+[0;36m2018-12-21 19:03:48 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+37161 13397380890
+False
+d2eb771c96e9347cf81c71f5c281073d93636051743829c7feccfd54f128f485
+count:608
+{
+  "meta": {
+    "clientType": "1",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "FxZ2nrXWQUy3Cm5yagoKow",
+    "clientName": "IOS_9.3.1_qsj",
+    "clientVersion": "1.1.0",
+    "transCode": "1001",
+    "transDate": "20181221190355",
+    "username": "18000000001"
+  },
+  "result": {
+    "rspCod": "00",
+    "rspMsg": "交易成功"
+  }
+}
+[0;36m2018-12-21 19:03:53 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+delete from AGENT_REGISTER_USER where USER_NAME=13710018668

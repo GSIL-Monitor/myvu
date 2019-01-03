@@ -1,0 +1,24 @@
+{'json': {'data': {'type': '100002', 'phoneNumber': '13710061427'}, 'meta': {'appKey': 'dls-uenpay', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '20180-5-17 10:50:00', 'username': 13761917777}}, 'result': 500}
+False
+797e9162a999d73e3caf84c26c24c3c4e1ea235d264523b9681955a50e617475
+count:240
+{
+    "meta": {
+        "clientType": "2",
+        "statusCode": 500,
+        "appKey": "dls-uenpay",
+        "accessToken": "mallList",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190437",
+        "username": "13761917777"
+    },
+    "message": {
+        "code": "apperr.1014",
+        "content": "该手机号码未注册"
+    }
+}
+500
+500
+[]

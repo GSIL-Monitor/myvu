@@ -1,0 +1,1 @@
+Test_PerfectShopInfo.py     73 INFO     执行开始setup_class---------------------------------------

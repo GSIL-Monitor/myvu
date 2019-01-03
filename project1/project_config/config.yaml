@@ -1,0 +1,29 @@
+ORACLE:
+  host : '192.168.1.234'
+  username : 'uenpay'
+  password : 'qwer1234'
+  database : 'uenpay'
+
+sql:
+  sql1: "select * from RSK_EXTRACT_AUDIT where AGENT_NAME='吴桂平分润三级机构'"
+
+ams:
+  url: "uenams"
+
+rms:
+  url: "uenrms"
+
+header:
+  header: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+            "Accept-Language": "zh-CN,zh;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+            # "Cookie": "JSESSIONID=F2D7E3DAF172CD668AD5D6EB831F290D",
+#            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+            "Referer": "https://test.uenpay.com/uenrms/shopInfo/getShopInfoPage",
+            "Upgrade-Insecure-Requests":"1",
+            "Host": "test.uenpay.com"}
+
+filepath:
+  filepath: 'H:\之前项目\pythonstudy\pythonstudy\python3\project1\project_config'
+

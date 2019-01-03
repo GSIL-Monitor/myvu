@@ -1,0 +1,26 @@
+{'json': {'data': {'orgId': ''}, 'page': {'pageNumber': 0, 'pageSize': 20}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+342f5531af14d9d327dc3eb4f1b56f61f63e2b99c2a0ff9cfda6685f2dda9d3a
+count:256
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "M-9BbdiIQP-J7v5k2c1zcQ",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190412",
+        "username": "18000000001"
+    },
+    "page": {
+        "page": 0,
+        "size": 20,
+        "pageNumber": 0,
+        "pageSize": 20
+    },
+    "result": []
+}
+返回状态码：200
+用例断言状态码：200

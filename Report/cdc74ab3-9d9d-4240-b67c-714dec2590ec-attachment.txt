@@ -1,0 +1,20 @@
+{'json': {'data': {'userId': '1284', 'orgId': 3297, 'userEmail': '496477498@qq.com'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+6a1747548c9d1a8b1c19d0dda7a07d76a7991a9d942070f6d173a00dd8cb61c8
+count:304
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "WLg0FOpbTY-h9UICz41GRw",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190422",
+        "username": "18000000001"
+    },
+    "result": {}
+}
+200
+200

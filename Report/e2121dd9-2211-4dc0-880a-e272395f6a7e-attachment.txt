@@ -1,0 +1,6 @@
+[0;36m2018-12-21 19:04:32 - WfbApp - test_SelectHeadline.py - 77 - INFO - 执行开始setup_class---------------------------------------[0m
+5a87aff356088cb768efde08b042d6bf25bccb3122504e3340571424c2bc752d
+count:272
+43d3cdcda6d1233f6ab06b5d2793ce34a1c0ce0fea54f89f64a0552185e94b01FhCB/ET+KENy+aiL8rtMCfU8NzN/YiQE0ieT/ZLBHqINRDItyAAERxF2AgeOdL/dYQD2wasl++bWnnHnfPJV8wjhGyX4SMkIzFdrZk8tcN1vSLaLiEK6JvXBRKcLEGNO4HFA9hFphpYiog52r5VZFXC3XaQOgivbyuE9SMIppjunuIqmjVrexUoHuCaYVcIUtW0EmCYKfnfivGwoEIf6RoMBZ3VY2+EXMWPSgsmlunjXVFuELUiuzp6KSl+7v9xrY1XDXSjRgmjmgWFnl2INAUeE/xpDIBvyhmQHzCTOJPhz9hjlQSKETjlLBMIzUk1qJq5rpC09u5lYjLMufj6t1kn1ZahllORH5mEXlHbiHbTZUUUTiHo9DJGO4tIL9uDgJWpYZWdr6XLnznJccbafSfT+GxZD5Lw93a4pIJS2JMWJGfFDSI2zlMx5mRIjogU+3N1F4Ik9YaaxkCCugOF17iRjmm0hz377L5GWsxbmPtUHe1N0KxlPcnNrkxdmcf5R9kKlfMzAlaWnERbgWVIbNCCBt8I5cM4aCSAZZiW3w8XvyJAhg7dWmvS4Rdu0NBpN
+{'meta': {'clientType': '2', 'statusCode': 200, 'appKey': 'vj5DYRpZ', 'accessToken': '0Lf9gz5oRAalx4vWtcfwmg', 'clientName': 'IOS_10.3.3_qsj', 'clientVersion': '1.1.0', 'transCode': '1001', 'transDate': '20181221190434', 'username': '18000000001'}, 'result': {'userName': '18000000001', 'userState': '1', 'relationMechanismState': '1', 'relationMechanismList': [{'agentOrgId': 1434, 'orgId': 3413, 'orgCode': 'ORG00003413', 'orgName': 'QS3413盛轶骏'}]}}
+0Lf9gz5oRAalx4vWtcfwmg

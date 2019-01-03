@@ -1,0 +1,1 @@
+test_SelectUserInfo.py      68 INFO     执行开始setup_class---------------------------------------

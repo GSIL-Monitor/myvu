@@ -1,0 +1,20 @@
+{'json': {'data': {'idName': '盛轶骏', 'idNo': '31011319881227651X'}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_12', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13761917777}}, 'result': 200}
+False
+6eddbc91b3949b541140a14ea6a0b44e1948a8896b5a7e67197161191ca909d5
+count:256
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "mallList",
+    "clientName": "IOS_12",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190427",
+    "username": "13761917777"
+  },
+  "result": {}
+}
+200
+200

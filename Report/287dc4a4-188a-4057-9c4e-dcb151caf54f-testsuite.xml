@@ -1,0 +1,84 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390248279" stop="1545390249778">
+  <name>python3.project.WfbApp.Test_GetBankName</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390248279" status="passed" stop="1545390249523">
+      <description>获得银行名字</description>
+      <name>Test_GetBankName.test_api[intro=correct bankCardNo0]</name>
+      <attachments>
+        <attachment source="108db7db-245d-4996-b1be-2f606020f82f-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="34b7be2a-42ac-460e-8f1c-40f3a50c87ae-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="ecb5462f-ba12-4aa0-b86b-d7e67b2ce470-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="81349f45-7d86-40cd-a958-71ae9e1b7b71-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="ff445c46-5b39-477a-88a7-d064be205233-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获得银行名字"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390249546" status="passed" stop="1545390249624">
+      <description>获得银行名字</description>
+      <name>Test_GetBankName.test_api[intro=bankCardNo is null]</name>
+      <attachments>
+        <attachment source="203bad2a-3ee5-476f-b962-c91a70170731-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="811ac149-9d3e-4f69-8888-789c85cc4bed-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="35bbf8e7-b5ac-490d-b241-4c841092d1ec-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获得银行名字"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390249645" status="passed" stop="1545390249698">
+      <description>获得银行名字</description>
+      <name>Test_GetBankName.test_api[intro=bankCardNo too long]</name>
+      <attachments>
+        <attachment source="5ab00bcc-52ce-4d2c-9099-e428ca50bf65-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="e1d28d96-8c15-48fd-8a68-7bd4192bf18b-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="897396c8-af29-4a07-9c4f-b2d3c481481c-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获得银行名字"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390249722" status="passed" stop="1545390249778">
+      <description>获得银行名字</description>
+      <name>Test_GetBankName.test_api[intro=correct bankCardNo1]</name>
+      <attachments>
+        <attachment source="4bec0d76-b069-4332-9a4a-08422c2e1791-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="ecec4556-5b68-402b-afb6-483e6f48cd64-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="eddb57f5-48f4-406b-8d90-9aeeda4239bf-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="获得银行名字"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,25 @@
+{'json': {'data': {'agentRegisterUserId': 2331, 'orgId': 4230, 'province': 110000, 'city': 110100, 'county': 110101, 'town': None, 'contactPhone': '13761917640', 'address': '龙珠苑', 'deliveryAddress': '上海市,上海市,宝山区龙珠苑', 'contactsName': '盛轶骏'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'SEe3OI_UQ6qgU6BtyIEfIA', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '20180-5-17 10:43:00', 'username': '18001700189'}}, 'result': 200}
+[0;36m2018-12-21 19:03:40 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+None
+实际请求数据:{'json': {'data': {'agentRegisterUserId': 2331, 'orgId': 4230, 'province': 110000, 'city': 110100, 'county': 110101, 'town': None, 'contactPhone': '13761917640', 'address': '龙珠苑', 'deliveryAddress': '上海市,上海市,宝山区龙珠苑', 'contactsName': '盛轶骏'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'jPbZlXEkSeCBO0Hqg0M31Q', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '20180-5-17 10:43:00', 'username': '18001700189'}}, 'result': 200}
+False
+5a4b1840c2045a64708aaaf76e7d2aa23f5d63c2ac9ef3ca80ccab2f3d4529ef
+count:544
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "jPbZlXEkSeCBO0Hqg0M31Q",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190345",
+        "username": "18000000001"
+    },
+    "result": {
+        "agentAddressId": 526
+    }
+}
+200
+200

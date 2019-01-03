@@ -1,0 +1,1 @@
+Test_SelectTradeStat.py     59 INFO     执行开始setup_class---------------------------------------

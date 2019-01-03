@@ -1,0 +1,38 @@
+{'json': {'data': {'recommendCode': 'WDDU7SM8', 'phoneNumber': 13761919637, 'smsCode': 111111, 'reqSign': 2, 'userEmail': '496477498@QQ.COM'}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '20180-5-17 10:50:00', 'username': 13761917777}}, 'result': 200}
+efbae11c88ed2471386f2726d0ea47f16a856e321b7a6c06516b4721031786ce
+count:256
+c9c4d3356c4b2a2bdf497e804b3db9ece253b34c47bc64b8568d9135b4e12c60FhCB/ET+KENy+aiL8rtMCfU8NzN/YiQE0ieT/ZLBHqINRDItyAAERxF2AgeOdL/dYQD2wasl++bWnnHnfPJV80S+/tp6p1UqEibiFkwGGsYiPHpuG5E/cl6n0BikOO2aYXS5IKek+ISYKLf0wtyuNXC3XaQOgivbyuE9SMIppjunuIqmjVrexUoHuCaYVcIU/I+IpSZd4yQSSvXUYhN7vbU2rZJnnvByHslbSdVh+fPmiC2xoRpF9waNC9cj+UOKhgTdoZAWiokHGgYMd8S4zkAvj4oR+9J/cUaCby3BHzhvhFZlMM4baGHx9PPIzloQL8IAPQULNaED0pcZqaGeyQ==
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "swUpGb3BTFih9KUzBdy21g",
+    "clientName": "IOS_10.3.3_qsj",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190428",
+    "username": "13710096977"
+  },
+  "result": {}
+}
+[0;36m2018-12-21 19:04:26 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+False
+83a47ed684383b3fdde167060a2512374097858166e419253fee7154748aacd8
+count:320
+{
+    "meta": {
+        "clientType": "2",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "H9vlwl7VSS2BmZzoFfFkdg",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190429",
+        "username": "13761917777"
+    },
+    "result": {}
+}
+200
+200

@@ -1,0 +1,31 @@
+{'json': {'data': {'id': '36672', 'userId': 36672, 'userType': 2}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0'}}, 'result': 200}
+False
+5acec52c816465643d0875e51fd6b79597679b9ed2cf044f2c0dacc9a8c704ca
+count:208
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "eVdSXsvRTt2FaCoMMiKTnw",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transDate": "20181221190419",
+        "username": "18000000001"
+    },
+    "result": {
+        "phoneNumber": "13761917640",
+        "registerTime": "2018-06-11",
+        "shopNo": "018061114592251",
+        "shopName": "上海快乐风男餐厅",
+        "terminalSn": "D040000000012212",
+        "bindTime": "2018-07-25",
+        "userType": 2,
+        "status": 0,
+        "userName": "盛轶骏",
+        "isAuth": "0",
+        "depositStatus": "0"
+    }
+}
+200
+200

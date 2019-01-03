@@ -1,0 +1,23 @@
+{'json': {'data': {'bankAccountName': '盛轶骏', 'bankAddress': '上海市上海市宝山区', 'bankBranch': '中国工商银行股份有限公司上海市宝山支行', 'bankBranchCode': '102290023338', 'bankName': '中国工商银行', 'cardCode': '6222021001029775456', 'cardType': '0', 'parentBankNo': '102100099996', 'shopId': '37128'}, 'meta': {'accessToken': 'CUUDpTNmRFC1SVdwSShZYw', 'appKey': 'vj5DYRpZ', 'clientName': 'Android_PACM00_8.1.0_qsj', 'clientVersion': '1.2.3', 'transCode': '', 'transDate': '2018-08-27 12:23:50', 'username': '13761917641'}}, 'result': 200}
+False
+2444d29398e7301c625d6fb284e3260799f0e64c003ae117c1a6e9535293fce9
+count:640
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "C-PRuLRkTz6dK2lioAbr-Q",
+        "clientName": "Android_PACM00_8.1.0_qsj",
+        "clientVersion": "1.2.3",
+        "transCode": "",
+        "transDate": "20181221190356",
+        "username": "18000000001"
+    },
+    "result": {
+        "rspCod": "00",
+        "rspMsg": "绑定银行卡成功"
+    }
+}
+200
+200

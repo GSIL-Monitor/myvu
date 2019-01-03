@@ -1,0 +1,196 @@
+<class 'str'>
+{'json': {'data': {'parentCode': '$$$$$$$$$$$$$$$$$$$$'}, 'page': {'pageNumber': 1, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+4164c68219ee398fd5eae13f38f35beb5e7e5d581d470b9303b69e1550820a5b
+count:288
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "-f-NAZdITwKhk2u14gwaGg",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190415",
+        "username": "18000000001"
+    },
+    "result": {
+        "listCity": [
+            {
+                "parentCode": "0",
+                "name": "安徽省",
+                "code": "34"
+            },
+            {
+                "parentCode": "0",
+                "name": "澳门特别行政区",
+                "code": "82"
+            },
+            {
+                "parentCode": "0",
+                "name": "北京市",
+                "code": "11"
+            },
+            {
+                "parentCode": "0",
+                "name": "福建省",
+                "code": "35"
+            },
+            {
+                "parentCode": "0",
+                "name": "甘肃省",
+                "code": "62"
+            },
+            {
+                "parentCode": "0",
+                "name": "广东省",
+                "code": "44"
+            },
+            {
+                "parentCode": "0",
+                "name": "广西壮族自治区",
+                "code": "45"
+            },
+            {
+                "parentCode": "0",
+                "name": "贵州省",
+                "code": "52"
+            },
+            {
+                "parentCode": "0",
+                "name": "海南省",
+                "code": "46"
+            },
+            {
+                "parentCode": "0",
+                "name": "河北省",
+                "code": "13"
+            },
+            {
+                "parentCode": "0",
+                "name": "河南省",
+                "code": "41"
+            },
+            {
+                "parentCode": "0",
+                "name": "黑龙江省",
+                "code": "23"
+            },
+            {
+                "parentCode": "0",
+                "name": "湖北省",
+                "code": "42"
+            },
+            {
+                "parentCode": "0",
+                "name": "湖南省",
+                "code": "43"
+            },
+            {
+                "parentCode": "0",
+                "name": "吉林省",
+                "code": "22"
+            },
+            {
+                "parentCode": "0",
+                "name": "江苏省",
+                "code": "32"
+            },
+            {
+                "parentCode": "0",
+                "name": "江西省",
+                "code": "36"
+            },
+            {
+                "parentCode": "0",
+                "name": "辽宁省",
+                "code": "21"
+            },
+            {
+                "parentCode": "0",
+                "name": "内蒙古自治区",
+                "code": "15"
+            },
+            {
+                "parentCode": "0",
+                "name": "宁夏回族自治区",
+                "code": "64"
+            },
+            {
+                "parentCode": "0",
+                "name": "青海省",
+                "code": "63"
+            },
+            {
+                "parentCode": "0",
+                "name": "山东省",
+                "code": "37"
+            },
+            {
+                "parentCode": "0",
+                "name": "山西省",
+                "code": "14"
+            },
+            {
+                "parentCode": "0",
+                "name": "陕西省",
+                "code": "61"
+            },
+            {
+                "parentCode": "0",
+                "name": "上海市",
+                "code": "31"
+            },
+            {
+                "parentCode": "0",
+                "name": "四川省",
+                "code": "51"
+            },
+            {
+                "parentCode": "0",
+                "name": "台湾省",
+                "code": "71"
+            },
+            {
+                "parentCode": "0",
+                "name": "天津市",
+                "code": "12"
+            },
+            {
+                "parentCode": "0",
+                "name": "西藏自治区",
+                "code": "54"
+            },
+            {
+                "parentCode": "0",
+                "name": "香港特别行政区",
+                "code": "81"
+            },
+            {
+                "parentCode": "0",
+                "name": "新疆维吾尔自治区",
+                "code": "65"
+            },
+            {
+                "parentCode": "0",
+                "name": "云南省",
+                "code": "53"
+            },
+            {
+                "parentCode": "0",
+                "name": "浙江省",
+                "code": "33"
+            },
+            {
+                "parentCode": "0",
+                "name": "重庆市",
+                "code": "50"
+            }
+        ],
+        "rspCod": "00",
+        "rspMsg": "交易成功"
+    }
+}
+200
+200

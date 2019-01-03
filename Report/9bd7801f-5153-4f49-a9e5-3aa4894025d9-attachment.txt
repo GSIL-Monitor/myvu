@@ -1,0 +1,44 @@
+{'json': {'data': {'orgId': 3236, 'msgCode': 236428, 'password': 'a111111', 'cPassword': 'a111111', 'phoneNumber': 13700000005}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_10.3.3_qsj', 'clientVersion': 'v1.0.0', 'transCode': '100100401', 'transDate': 20180623181803, 'username': 13761917640}}, 'result': 200}
+True
+[0;36m2018-12-21 19:04:30 - WfbApp - test_Register.py - 160 - INFO - 13710067975[0m
+71e2f76ae8e4aa347b95cd2c650b0c43765cb2660cf62d3ca30a9249e61629d2
+count:256
+123d444c1acfe0b709878b35eff30e07aca0ae3e785b11e577c09265fe1abd13FhCB/ET+KENy+aiL8rtMCfU8NzN/YiQE0ieT/ZLBHqINRDItyAAERxF2AgeOdL/dYQD2wasl++bWnnHnfPJV80S+/tp6p1UqEibiFkwGGsYiPHpuG5E/cl6n0BikOO2aYXS5IKek+ISYKLf0wtyuNXC3XaQOgivbyuE9SMIppjunuIqmjVrexUoHuCaYVcIU/I+IpSZd4yQSSvXUYhN7vbU2rZJnnvByHslbSdVh+fPmiC2xoRpF9waNC9cj+UOKEqpK0drt+UAaQCoktUNpjWJD87z747m+e9wBvOVTUjCp9gdFqyOW+o6juqqbxDeTL8IAPQULNaED0pcZqaGeyQ==
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "swUpGb3BTFih9KUzBdy21g",
+    "clientName": "IOS_10.3.3_qsj",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190433",
+    "username": "13710067975"
+  },
+  "result": {}
+}
+[0;36m2018-12-21 19:04:31 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+[0;36m2018-12-21 19:04:32 - WfbApp - test_Register.py - 170 - INFO - 305464[0m
+mallList
+False
+2d3f3723343ab01e83b70a5fff6c45ad0a3befc2a235a033b206751695b778df
+count:320
+{
+  "meta": {
+    "clientType": "1",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "di5SaA5OSFaRkoNzciSZ8A",
+    "clientName": "IOS_10.3.3_qsj",
+    "clientVersion": "v1.0.0",
+    "transCode": "100100401",
+    "transDate": "20181221190434",
+    "username": "18000000001"
+  },
+  "result": {
+    "shopId": "37910",
+    "rspCod": "00",
+    "rspMsg": "注册成功"
+  }
+}

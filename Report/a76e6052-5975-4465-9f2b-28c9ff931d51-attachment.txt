@@ -1,0 +1,20 @@
+{'json': {'data': {'userId': '1284', 'orgId': 3297, 'userEmail': 'whatismamu@gmail.comccccccccccccccccCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCcccccc'}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 200}
+False
+b4f44d97a3efcfba1e08a9f555a605206e4ba4ac5dc644cfea8d3dd13ee058b3
+count:384
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "WLg0FOpbTY-h9UICz41GRw",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190423",
+        "username": "18000000001"
+    },
+    "result": {}
+}
+200
+200

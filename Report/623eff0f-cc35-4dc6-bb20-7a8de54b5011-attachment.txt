@@ -1,0 +1,1 @@
+test_AddRnImage.py          72 INFO     执行开始setup_class---------------------------------------

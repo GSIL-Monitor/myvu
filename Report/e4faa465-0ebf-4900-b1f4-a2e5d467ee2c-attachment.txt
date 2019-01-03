@@ -1,0 +1,7 @@
+{'json': {'data': {'userId': '2285', 'orgId': '4195', 'userType': '01'}, 'meta': {'appKey': 'vj5DYRpZ', 'clientVersion': '1.3.8', 'clientName': 'IOS_11.4.1_qsj', 'username': '13761911932', 'accessToken': 'Vx0TcUE9QZCqjfjnLmmM1g', 'transCode': '100100401', 'transDate': '20181213145152'}}, 'result': 200}
+[0;36m2018-12-21 19:04:16 - WfbApp - Test_SelectAuthorize.py - 106 - INFO - {"data": {"userId": "2285", "orgId": "4195", "userType": "01"}, "meta": {"appKey": "vj5DYRpZ", "clientVersion": "1.3.8", "clientName": "IOS_11.4.1_qsj", "username": "13761911932", "accessToken": "Vx0TcUE9QZCqjfjnLmmM1g", "transCode": "100100401", "transDate": "20181213145152"}}[0m
+False
+d632f4b18324da7500c75fa8f22e46350dd53622ad5c2ba652a9319e336eea5b
+count:272
+[0;36m2018-12-21 19:04:16 - WfbApp - Test_SelectAuthorize.py - 109 - INFO - {'meta': {'clientType': '1', 'statusCode': 200, 'appKey': 'vj5DYRpZ', 'accessToken': '7ADVdL8kQX6PRQSwmQVQgg', 'clientName': 'IOS_11.4.1_qsj', 'clientVersion': '1.3.8', 'transCode': '100100401', 'transDate': '20181221190417', 'username': '18000000001'}, 'result': {'authorizeName': '盛轶骏', 'authorizeDate': '2018年12月13日', 'recommendCode': 'KVDUVNXB', 'authorizeCode': 'QSHB_KVDUVNXB'}}[0m
+[0;32m2018-12-21 19:04:16 - WfbApp - Test_SelectAuthorize.py - 110 - DEBUG - {'authorizeName': '盛轶骏', 'authorizeDate': '2018年12月13日', 'recommendCode': 'KVDUVNXB', 'authorizeCode': 'QSHB_KVDUVNXB'}[0m

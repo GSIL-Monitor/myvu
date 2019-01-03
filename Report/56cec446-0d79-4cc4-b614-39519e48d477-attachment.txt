@@ -1,0 +1,2 @@
+Test_SelectTrans.py         67 INFO     执行开始setup_class---------------------------------------
+Test_SelectTrans.py         68 DEBUG    http://192.168.1.232/wfbs-api/achievement/selectTrans

@@ -1,0 +1,84 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390249811" stop="1545390250312">
+  <name>python3.project.WfbApp.Test_GetOrgAccountDetail</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390249811" status="passed" stop="1545390250173">
+      <description>查询账户余额明细</description>
+      <name>Test_GetOrgAccountDetail.test_api[intro=correct orgId]</name>
+      <attachments>
+        <attachment source="82f61837-ad36-4a93-aa37-823b819d786a-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="3585b4f5-6c9c-418b-946d-12cdf2d7194c-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="07f1f4b0-b746-4e6f-88fa-aaef01d3b958-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="81d7d2cd-24b5-42ab-bd50-65b5939b0807-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="76899cfa-58f8-48aa-85b0-68d3db015645-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询账户余额明细"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390250198" status="passed" stop="1545390250235">
+      <description>查询账户余额明细</description>
+      <name>Test_GetOrgAccountDetail.test_api[intro=orgId is null]</name>
+      <attachments>
+        <attachment source="157114a0-87f7-4759-a8a9-de6c71bfc905-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="b30038c4-c6a7-451d-9a78-792492023f5f-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="88d6c267-8717-436f-8d6e-62e287f7176d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询账户余额明细"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390250256" status="passed" stop="1545390250272">
+      <description>查询账户余额明细</description>
+      <name>Test_GetOrgAccountDetail.test_api[intro=orgId too long]</name>
+      <attachments>
+        <attachment source="f57d9f0b-b8d4-4d0f-ba72-7631d9f9082c-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="a5ae1643-6b87-4f8b-84bc-a53afc62c43f-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="3db1c86c-399a-4887-a9d1-25d91619a52f-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询账户余额明细"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390250295" status="passed" stop="1545390250312">
+      <description>查询账户余额明细</description>
+      <name>Test_GetOrgAccountDetail.test_api[intro=wrong type orgId]</name>
+      <attachments>
+        <attachment source="687d511d-ad8c-4732-a145-049f9c56d07e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="038ce601-1ea6-4859-bb04-d937bea6f322-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="bedacec2-d38f-4b85-8bd7-c5a22025d544-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="查询账户余额明细"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

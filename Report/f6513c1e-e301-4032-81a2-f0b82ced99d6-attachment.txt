@@ -1,0 +1,3 @@
+Test_SelectFriendStat.py   106 INFO     {"data": {"orgId": "3297"}, "meta": {"appKey": "vj5DYRpZ", "clientVersion": "1.3.8", "clientName": "IOS_11.4.1_qsj", "username": "13761911932", "accessToken": "Vx0TcUE9QZCqjfjnLmmM1g", "transCode": "100100401", "transDate": "20181213145152"}}
+log.py                      44 INFO     res
+Test_SelectFriendStat.py   109 INFO     {'meta': {'clientType': '1', 'statusCode': 200, 'appKey': 'vj5DYRpZ', 'accessToken': 'XosdDWh4QpK_Bg8o2vmPGA', 'clientName': 'IOS_11.4.1_qsj', 'clientVersion': '1.3.8', 'transCode': '100100401', 'transDate': '20181221190418', 'username': '18000000001'}, 'result': {'allNum': 281, 'monthAddAllNum': 87, 'mine': 94, 'monthAddMine': 8, 'child': 187, 'monthAddChild': 79}}

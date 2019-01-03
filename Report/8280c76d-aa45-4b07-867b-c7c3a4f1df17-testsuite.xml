@@ -1,0 +1,65 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390258573" stop="1545390258888">
+  <name>python3.project.WfbApp.Test_SelectTerminalList</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390258573" status="passed" stop="1545390258727">
+      <description>机具列表</description>
+      <name>Test_SelectTerminalList.test_api[intro=ALL devStatus]</name>
+      <attachments>
+        <attachment source="d9e98285-b6dd-4ca9-9842-c77a5dfcdc04-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="97565886-045f-4e2a-8361-d7439e543b19-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="6b210cae-2c5b-4928-ae60-b23e9b36264a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="963ffa12-882e-4ef6-b837-3280835501b3-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="89e1790d-5816-46ac-a06a-5b2826199bd2-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="机具列表"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390258751" status="passed" stop="1545390258841">
+      <description>机具列表</description>
+      <name>Test_SelectTerminalList.test_api[intro=devStatus 1]</name>
+      <attachments>
+        <attachment source="af89a7e7-b1b8-4c25-8ed0-bb26421a1136-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="c06d46ab-8700-4f7d-9924-9720ee3676f8-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="3296a496-7fd3-40eb-9678-bca8bcbca52b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="机具列表"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390258861" status="passed" stop="1545390258888">
+      <description>机具列表</description>
+      <name>Test_SelectTerminalList.test_api[intro=devStatus 0]</name>
+      <attachments>
+        <attachment source="61d9dba0-f620-4b75-a66c-762e707b6794-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="7098b41b-b005-4f35-8f11-b1380ae6b46d-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="7eeb2dc0-802b-4601-a9b8-f515edb458d2-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="机具列表"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

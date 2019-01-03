@@ -1,0 +1,45 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390259848" stop="1545390260786">
+  <name>python3.project.WfbApp.Test_ServiceProvider</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390259848" status="passed" stop="1545390260344">
+      <description>服务商认证提交</description>
+      <name>Test_ServiceProvider.test_api[intro=correct parentCode]</name>
+      <attachments>
+        <attachment source="f706ec72-9196-46b8-bb72-5c1a5747c317-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="0970fcce-ae56-47ae-af5f-3d791227117e-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="d0a369ca-910e-4097-b412-02aff46fa55c-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="1952c282-8b8b-4e38-a6d8-eef07cc84e40-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="服务商认证提交"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390260372" status="passed" stop="1545390260786">
+      <description>服务商认证提交</description>
+      <name>Test_ServiceProvider.test_api[intro=repeat parentCode]</name>
+      <attachments>
+        <attachment source="bcaa716b-4449-45f7-b6ce-760e8d383261-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="9020de69-d095-43da-ae6e-b80313130e16-attachment.txt" title="Captured stderr call" type="text/plain"/>
+        <attachment source="e44621ff-7393-415d-8556-62f9810ce968-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="服务商认证提交"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,22 @@
+{'json': {'data': {'id': '', 'userId': 1095, 'userType': 2}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0'}}, 'result': 500}
+False
+7f55a882b7889a09b40d39b6e9daadd106acf1ce55c04d8e1c884c44e5e2b978
+count:208
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 500,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "eVdSXsvRTt2FaCoMMiKTnw",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transDate": "20181221190419",
+        "username": "18000000001"
+    },
+    "message": {
+        "code": "err.default",
+        "content": "系统繁忙，请稍候再试。"
+    }
+}
+500
+500

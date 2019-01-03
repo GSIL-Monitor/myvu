@@ -1,0 +1,23 @@
+{'json': {'data': {'bankCardNo': ''}, 'page': {'pageNumber': 1, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13764906431}}, 'result': 500}
+False
+1a6e843a3a28c2b400bb195dac4192a63512372a2be285fa9673fb1583af7975
+count:256
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 500,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "_XYrjbPLRGKM6DHgDulnow",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transCode": "1001",
+        "transDate": "20181221190411",
+        "username": "18000000001"
+    },
+    "message": {
+        "code": "err.default",
+        "content": "通过卡号获取总行信息发生错误"
+    }
+}
+500
+500

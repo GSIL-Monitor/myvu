@@ -1,0 +1,4 @@
+test_Register.py           160 INFO     13710067975
+orc.py                      60 INFO     192.168.1.234:1521/uenpay
+test_Register.py           170 INFO     305464
+log.py                      44 INFO     res

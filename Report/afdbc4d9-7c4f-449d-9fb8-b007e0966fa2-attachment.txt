@@ -1,0 +1,19 @@
+60ebce5f1dcb7cf628d8c833f971be8a9437bec131dc8660dced09c8fdae8f17
+count:224
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 500,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "mallList",
+    "clientName": "IOS_12",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190426",
+    "username": "13764906431"
+  },
+  "message": {
+    "code": "err.validation",
+    "content": "{err.validate.0001}"
+  }
+}

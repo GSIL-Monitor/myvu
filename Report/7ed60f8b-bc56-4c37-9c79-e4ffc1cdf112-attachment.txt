@@ -1,0 +1,19 @@
+{'json': {'data': {'password': 'XMbPMBE/uEJZMdcoCfY9Qw==', 'newPassword': 'qINjFwzdNqgKFBYHXGkDeg==', 'confirmPassword': 'qINjFwzdNqgKFBYHXGkDeg=='}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_12_qsj', 'clientVersion': '1.1.0', 'transCode': '1001', 'transDate': '2018-5-17 10:50:00', 'username': 13761917640}}, 'result': 200}
+False
+e04e7b70f96f9bbc93c67cb421f09cee54e30f21b51e03363eb560b5a7d7cd20
+count:336
+{
+  "meta": {
+    "clientType": "1",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "0qEC5AC3QlqPsNx_a9uHqg",
+    "clientName": "IOS_12_qsj",
+    "clientVersion": "1.1.0",
+    "transCode": "1001",
+    "transDate": "20181221190438",
+    "username": "18000000001"
+  },
+  "result": {}
+}
+200

@@ -1,0 +1,43 @@
+200
+jOu6MKU4QjWz_6tTapby9w
+body-------------------------------------------------------------:{'data': {'type': 100003, 'phoneNumber': '13710098551'}, 'meta': {'appKey': 'dls-uenpay', 'accessToken': 'jOu6MKU4QjWz_6tTapby9w', 'clientName': 'IOS_10.3.3_qsj', 'clientVersion': 'v1.0', 'transCode': '1001', 'transDate': '20180-5-17 10:50:00', 'username': '13710098551'}}
+010ad79c22897b880f3f2c34d340324dcce6af46ae58e5889047466996d5be2b
+count:256
+c23dc304621e3eb4967207b7eaa47faec5c3379ba0159d1fe52e3b3fa0bcd3d5FhCB/ET+KENy+aiL8rtMCfU8NzN/YiQE0ieT/ZLBHqINRDItyAAERxF2AgeOdL/d3gaqIbEz3IG0swoBFRvghKoA7qA4OSoNMpTKjcgLlFcgFBLx1OTW3giAr9fIhOe5DH0D64sbYQcJAR26Qw3cnQR6IR7Y89McoVuDp6rY3eTcqlzVdBDHwNXjiIL6gpRXCUoyvzjJjFKXZI56VOJ1C53ZrPeB4FQ3Rjk2ipNNz8UmRe3XWdS36b0CL/mwDOzKwvlAacHjS0Fr40CUa4DTo3GYN8DlaQwfRKRCK1YWIxWNZxdwlc8sVN3OGxyNdXjC3ENbpIZXRQL5jSfpik2YLg==
+{
+  "meta": {
+    "clientType": "2",
+    "statusCode": 200,
+    "appKey": "dls-uenpay",
+    "accessToken": "jOu6MKU4QjWz_6tTapby9w",
+    "clientName": "IOS_10.3.3_qsj",
+    "clientVersion": "v1.0",
+    "transCode": "1001",
+    "transDate": "20181221190347",
+    "username": "13710098551"
+  },
+  "result": {}
+}
+[0;36m2018-12-21 19:03:45 - WfbApp - orc.py - 60 - INFO - 192.168.1.234:1521/uenpay[0m
+921090
+False
+a7680190310985f776d1c2890d0645852c9804aea7a27ffe8101b6bf169a939f
+count:352
+{
+  "meta": {
+    "clientType": "1",
+    "statusCode": 200,
+    "appKey": "vj5DYRpZ",
+    "accessToken": "jOu6MKU4QjWz_6tTapby9w",
+    "clientName": "IOS_10.3.3_qsj",
+    "clientVersion": "1.1.0",
+    "transCode": "1001",
+    "transDate": "20181221190348",
+    "username": "18000000001"
+  },
+  "result": {
+    "shopId": "37909",
+    "rspCod": "00",
+    "rspMsg": "注册成功"
+  }
+}

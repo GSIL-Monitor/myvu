@@ -1,0 +1,59 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545390264941" stop="1545390265156">
+  <name>python3.project.WfbApp.test_Apilogin</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545390264941" status="passed" stop="1545390265077">
+      <description>代理商App登录接口</description>
+      <name>Test_Apilogin.test_api[intro=correct psd]</name>
+      <attachments>
+        <attachment source="3301780d-cdf6-405a-9c66-14ce29205726-attachment.txt" title="Captured stderr setup" type="text/plain"/>
+        <attachment source="340e2c35-c0bc-4210-b68e-5a8b47208625-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="b45d055c-0eea-4057-88a5-79749194b663-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="登录接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390265099" status="passed" stop="1545390265115">
+      <description>代理商App登录接口</description>
+      <name>Test_Apilogin.test_api[intro=psd null]</name>
+      <attachments>
+        <attachment source="afdbc4d9-7c4f-449d-9fb8-b007e0966fa2-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="登录接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545390265136" status="passed" stop="1545390265156">
+      <description>代理商App登录接口</description>
+      <name>Test_Apilogin.test_api[intro=psd too long]</name>
+      <attachments>
+        <attachment source="3ebccb43-f83a-4f76-97bb-47915e671d75-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试模块_Q刷伙伴App"/>
+        <label name="story" value="登录接口"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="87008-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

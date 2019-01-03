@@ -1,0 +1,25 @@
+{'json': {'data': {'orgId': '', 'userId': '', 'userType': 2, 'userName': ''}, 'page': {'pageNumber': 0, 'pageSize': 10}, 'meta': {'appKey': 'vj5DYRpZ', 'accessToken': 'mallList', 'clientName': 'IOS_9.3.1', 'clientVersion': 'v1.0'}}, 'result': 200}
+False
+db1593eee53ba587aeb907ad5c3e23347d7eaf79764929c2958ec1f290deb49b
+count:224
+{
+    "meta": {
+        "clientType": "1",
+        "statusCode": 200,
+        "appKey": "vj5DYRpZ",
+        "accessToken": "yKS8L4JjTXuLv3vPMoRmtQ",
+        "clientName": "IOS_9.3.1",
+        "clientVersion": "v1.0",
+        "transDate": "20181221190435",
+        "username": "18000000001"
+    },
+    "page": {
+        "page": 0,
+        "size": 10,
+        "pageNumber": 0,
+        "pageSize": 10
+    },
+    "result": []
+}
+200
+200

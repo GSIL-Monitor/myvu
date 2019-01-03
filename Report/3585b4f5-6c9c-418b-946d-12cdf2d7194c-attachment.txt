@@ -1,0 +1,1 @@
+Test_GetOrgAccountDetail.py   76 INFO     执行开始setup_class---------------------------------------
