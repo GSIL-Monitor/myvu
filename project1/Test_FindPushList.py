@@ -8,7 +8,7 @@ from ..WfbApp import *
 
 
 @allure.feature("测试模块_Q刷伙伴App")
-@pytest.mark.WfbApp       #标志WfbApp，跑jenkins时候只跑带有标识的
+@pytest.mark.WfbApp11       #标志WfbApp，跑jenkins时候只跑带有标识的
 class Test_FindPushList():
     """
     推送信息列表
